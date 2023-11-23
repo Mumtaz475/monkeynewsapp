@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https/Mumtaz475.github.io/monkeynewsapp/static/css/main.073c9b0a.css",
+    "main.js": "/https/Mumtaz475.github.io/monkeynewsapp/static/js/main.e17521f5.js",
+    "static/js/787.ac78d357.chunk.js": "/https/Mumtaz475.github.io/monkeynewsapp/static/js/787.ac78d357.chunk.js",
+    "index.html": "/https/Mumtaz475.github.io/monkeynewsapp/index.html",
+    "main.073c9b0a.css.map": "/https/Mumtaz475.github.io/monkeynewsapp/static/css/main.073c9b0a.css.map",
+    "main.e17521f5.js.map": "/https/Mumtaz475.github.io/monkeynewsapp/static/js/main.e17521f5.js.map",
+    "787.ac78d357.chunk.js.map": "/https/Mumtaz475.github.io/monkeynewsapp/static/js/787.ac78d357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e17521f5.js"
+  ]
+}
